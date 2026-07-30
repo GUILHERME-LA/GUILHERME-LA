@@ -6,7 +6,6 @@
 <p align="center">
   <a href="mailto:guilhermrvieira8@gmail.com"><img src="https://img.shields.io/badge/Email-guilhermrvieira8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/GUILHERME-LA"><img src="https://img.shields.io/badge/GitHub-GUILHERME%E2%80%93LA-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/guilherme-vieira-dev/"><img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Vieira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
