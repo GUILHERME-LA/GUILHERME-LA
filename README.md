@@ -59,22 +59,27 @@ const guilherme = {
 ## Projetos em Destaque
 
 <h3>App de Academia</h3>
+
 Tracker de treinos em Flutter Web com arquitetura offline-first, mapa muscular interativo e aba social. Em produção com usuários reais.
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=00FF41) ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41) ![Privado](https://img.shields.io/badge/-🔒%20Repositório%20privado-000000?style=flat-square) [`🔗 Acessar`](https://academiaflutter.vercel.app)
 
 <h3><a href="https://github.com/GUILHERME-LA/cashflow">CashFlow</a></h3>
+
 Aplicação web para controle financeiro pessoal com dashboard interativo, gráficos e metas.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=00FF41) ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41) [`🔗 Acessar`](https://cashflow-eight-red.vercel.app)
 
 <h3><a href="https://github.com/GUILHERME-LA/nexo">Nexo</a></h3>
+
 Portal editorial de inteligência política com análise de sentimento em tempo real.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41) ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF41) ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41) [`🔗 Acessar`](https://nexo-azure-beta.vercel.app)
 
 <h3><a href="https://github.com/GUILHERME-LA/secretaria-monetaria">Secretaria Monetária</a></h3>
+
 Sistema de gestão financeira e secretaria com controle de fluxo de caixa e relatórios.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41) ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF41) [`🔗 Acessar`](https://secretaria-monetaria.vercel.app)
 
 <h3><a href="https://github.com/GUILHERME-LA/transcricao-audio">Transcrição Áudio</a></h3>
+
 Ferramenta de transcrição de áudio para texto utilizando Processamento de Linguagem Natural (NLP).
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF41) ![Whisper](https://img.shields.io/badge/-Whisper-000000?style=flat-square&logo=openai&logoColor=00FF41)
 
