@@ -1,10 +1,10 @@
 <!-- ===== HEADER ANIMADO (onda verde matrix) ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Guilherme%20Vieira&fontColor=00FF41&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=180&section=header&text=Guilherme%20Vieira&fontColor=00FF41&fontSize=50&animation=fadeIn&fontAlignY=40" />
 
 <!-- ===== TERMINAL DIGITANDO (estilo Matrix) ===== -->
 <p align="center">
   <a href="https://github.com/GUILHERME-LA">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Estagi%C3%A1rio+de+TI+%40+Honorix;%24+cat+stack.txt;%3E+TypeScript+%7C+React+%7C+Python+%7C+Flutter;%24+sudo+deploy+--prod;%3E+Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es+reais" alt="Terminal" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;Full-Stack+%26+Mobile+Developer;%24+cat+stack.txt;TypeScript+%7C+React+%7C+Python+%7C+Flutter;%24+sudo+deploy+--prod" alt="Terminal" />
   </a>
 </p>
 
@@ -67,32 +67,39 @@ Ferramenta de transcrição de áudio para texto utilizando Processamento de Lin
 
 ## 🐍 Contribuições
 
-<!-- A cobrinha aparece aqui depois que você ativar o GitHub Action (instruções no fim). -->
+<!-- A cobrinha só aparece DEPOIS que o GitHub Action rodar (ver snake.yml). -->
 <picture>
   <img src="https://raw.githubusercontent.com/GUILHERME-LA/GUILHERME-LA/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </picture>
 
 ---
 
-## 📊 Estatísticas
+## 📊 Atividade
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GUILHERME-LA&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&icon_color=00FF41" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUILHERME-LA&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=000000&title_color=00FF41" />
-</p>
-
+<!-- STREAK: serviço estável, funciona. -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUILHERME-LA&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GUILHERME-LA&theme=matrix&no-frame=true&column=7&margin-w=8" alt="trophies" />
-</p>
-
-<!-- ===== GRAFO DE ATIVIDADE ===== -->
+<!-- GRAFO DE ATIVIDADE: serviço estável, funciona. -->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GUILHERME-LA&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
 </p>
+
+<!--
+  ===== STATS CARD + TROFÉUS (OPCIONAL) =====
+  Os serviços públicos abaixo vivem fora do ar (503 / cota estourada).
+  Para ter esses cards de forma ESTÁVEL, hospede sua própria instância
+  (fork + deploy no Vercel) e troque o domínio nas URLs. Aí descomente:
+
+  <p align="center">
+    <img height="165em" src="https://SEU-DEPLOY.vercel.app/api?username=GUILHERME-LA&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+    <img height="165em" src="https://SEU-DEPLOY.vercel.app/api/top-langs/?username=GUILHERME-LA&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00FF41&text_color=FFFFFF" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=GUILHERME-LA&theme=matrix&no-frame=true&column=7&margin-w=8" alt="trophies" />
+  </p>
+-->
 
 ---
 
