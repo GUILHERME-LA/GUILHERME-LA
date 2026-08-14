@@ -87,6 +87,12 @@ Ferramenta de transcrição de áudio para texto utilizando Processamento de Lin
 
 ## 📊 Atividade
 
+<!-- STATS CARD DINÂMICO: instância própria no Vercel. Atualiza sozinho. -->
+<p align="center">
+  <img height="165em" src="https://github-readme-stats-one-lac-23.vercel.app/api?username=GUILHERME-LA&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" alt="stats" />
+  <img height="165em" src="https://github-readme-stats-one-lac-23.vercel.app/api/top-langs/?username=GUILHERME-LA&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,java&bg_color=000000&title_color=00FF41&text_color=FFFFFF" alt="top-langs" />
+</p>
+
 <!-- STREAK: serviço estável, funciona. -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUILHERME-LA&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="streak" />
@@ -98,15 +104,8 @@ Ferramenta de transcrição de áudio para texto utilizando Processamento de Lin
 </p>
 
 <!--
-  ===== STATS CARD + TROFÉUS (OPCIONAL) =====
-  Os serviços públicos abaixo vivem fora do ar (503 / cota estourada).
-  Para ter esses cards de forma ESTÁVEL, hospede sua própria instância
-  (fork + deploy no Vercel) e troque o domínio nas URLs. Aí descomente:
-
-  <p align="center">
-    <img height="165em" src="https://SEU-DEPLOY.vercel.app/api?username=GUILHERME-LA&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-    <img height="165em" src="https://SEU-DEPLOY.vercel.app/api/top-langs/?username=GUILHERME-LA&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00FF41&text_color=FFFFFF" />
-  </p>
+  TROFÉUS (opcional): github-profile-trophy é outro serviço público e estava
+  com a cota estourada (HTTP 402). Se um dia voltar, descomente:
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=GUILHERME-LA&theme=matrix&no-frame=true&column=7&margin-w=8" alt="trophies" />
   </p>
