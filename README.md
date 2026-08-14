@@ -1,72 +1,99 @@
+<!-- ===== HEADER ANIMADO (onda verde matrix) ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Guilherme%20Vieira&fontColor=00FF41&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=18" />
 
-# Olá, eu sou Guilherme Vieira! 👋
-
-**Estagiário de TI @ Honorix** • **Full-Stack & Mobile Developer** • **Ciência da Computação @ CEUB**
-
+<!-- ===== TERMINAL DIGITANDO (estilo Matrix) ===== -->
 <p align="center">
-  <a href="mailto:guilhermrvieira8@gmail.com"><img src="https://img.shields.io/badge/Email-guilhermrvieira8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/GUILHERME-LA"><img src="https://img.shields.io/badge/GitHub-GUILHERME%E2%80%93LA-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/GUILHERME-LA">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Estagi%C3%A1rio+de+TI+%40+Honorix;%24+cat+stack.txt;%3E+TypeScript+%7C+React+%7C+Python+%7C+Flutter;%24+sudo+deploy+--prod;%3E+Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es+reais" alt="Terminal" />
+  </a>
+</p>
+
+<!-- ===== BADGES DE CONTATO + CONTADOR DE VISITAS ===== -->
+<p align="center">
+  <a href="mailto:guilhermrvieira8@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+  <!-- Crie/cole seu LinkedIn: descomente e troque SEU-LINKEDIN -->
+  <!-- <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a> -->
+  <a href="https://github.com/GUILHERME-LA"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+  <img src="https://komarev.com/ghpvc/?username=GUILHERME-LA&style=for-the-badge&color=00FF41&label=VISITAS" alt="views" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mim
 
-Desenvolvedor full-stack com experiência em **TypeScript, React, Python, Node.js e Flutter**. Atualmente focado em construção de aplicações web modernas, automação de processos e desenvolvimento mobile.
-
-- 🔭 Atualmente trabalhando na **Honorix** como estagiário de TI
-- 🌱 Aprofundando conhecimentos em **Flutter**, **React Native** e **Cloud Computing**
-- 🎓 Cursando **Ciência da Computação** no CEUB
-- 📍 **Brasília, DF**
+```typescript
+const guilherme = {
+  cargo: "Estagiário de TI @ Honorix",
+  formacao: "Ciência da Computação @ CEUB",
+  foco: ["Aplicações web modernas", "Automação de processos", "Mobile"],
+  aprendendo: ["Flutter", "React Native", "Cloud Computing"],
+  localizacao: "Brasília, DF 🇧🇷",
+};
+```
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🧬 Stack
 
-| Categoria | Tecnologias |
-|-----------|-------------|
-| **Frontend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter,dart,nodejs,python,bun,supabase,postgres,docker,vercel,git,figma&theme=dark" />
+</p>
 
 ---
 
 ## 📌 Projetos em Destaque
 
 ### [💰 CashFlow](https://github.com/GUILHERME-LA/cashflow)
+
 Aplicação web para controle financeiro pessoal com dashboard interativo, gráficos e metas.
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) [`🔗 Acessar`](https://cashflow-eight-red.vercel.app)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=00FF41) ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41) [`🔗 Acessar`](https://cashflow-eight-red.vercel.app)
 
 ### [📰 Nexo](https://github.com/GUILHERME-LA/nexo)
+
 Portal editorial de inteligência política com análise de sentimento em tempo real.
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) [`🔗 Acessar`](https://nexo-azure-beta.vercel.app)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41) ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF41) ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41) [`🔗 Acessar`](https://nexo-azure-beta.vercel.app)
 
 ### [📊 Secretaria Monetária](https://github.com/GUILHERME-LA/secretaria-monetaria)
+
 Sistema de gestão financeira e secretaria com controle de fluxo de caixa e relatórios.
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) [`🔗 Acessar`](https://secretaria-monetaria.vercel.app)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41) ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF41) [`🔗 Acessar`](https://secretaria-monetaria.vercel.app)
 
 ### [🎙️ Transcrição Áudio](https://github.com/GUILHERME-LA/transcricao-audio)
+
 Ferramenta de transcrição de áudio para texto utilizando Processamento de Linguagem Natural (NLP).
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-6C63FF?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF41) ![Whisper](https://img.shields.io/badge/-Whisper-000000?style=flat-square&logo=openai&logoColor=00FF41)
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🐍 Contribuições
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUILHERME-LA&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUILHERME-LA&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUILHERME-LA&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-> ⚡ *O serviço de estatísticas pode eventualmente ficar indisponível por rate limit — os cards voltam a aparecer automaticamente em alguns minutos.*
+<!-- A cobrinha aparece aqui depois que você ativar o GitHub Action (instruções no fim). -->
+<picture>
+  <img src="https://raw.githubusercontent.com/GUILHERME-LA/GUILHERME-LA/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</picture>
 
 ---
 
-<div align="center">
-  <sub>⚡ "Transformando códigos em soluções reais."</sub>
-</div>
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GUILHERME-LA&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&icon_color=00FF41" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUILHERME-LA&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=000000&title_color=00FF41" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUILHERME-LA&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GUILHERME-LA&theme=matrix&no-frame=true&column=7&margin-w=8" alt="trophies" />
+</p>
+
+<!-- ===== GRAFO DE ATIVIDADE ===== -->
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GUILHERME-LA&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=120&section=footer" />
