@@ -59,7 +59,7 @@ const guilherme = {
 ## 📌 Projetos em Destaque
 
 ### 🏋️ App de Academia
-Tracker de treinos em Flutter Web com arquitetura offline-first, mapa muscular interativo e aba social. Em produção com usuários reais.
+Tracker de treinos em Flutter Web com arquitetura offline-first, mapa muscular interativo. Protótipo em produção.
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=00FF41) ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41) ![Privado](https://img.shields.io/badge/-🔒%20Repositório%20privado-000000?style=flat-square) [`🔗 Acessar`](https://academiaflutter.vercel.app)
 
 ### [💰 CashFlow](https://github.com/GUILHERME-LA/cashflow)
