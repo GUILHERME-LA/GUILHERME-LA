@@ -38,10 +38,6 @@ Desenvolvedor full-stack com experiência em **TypeScript, React, Python, Node.j
 Aplicação web para controle financeiro pessoal com dashboard interativo, gráficos e metas.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) [`🔗 Acessar`](https://cashflow-eight-red.vercel.app)
 
-### [🧠 Brain Dashboard](https://github.com/GUILHERME-LA/brain-dashboard)
-Dashboard inteligente para organização de estudos com Pomodoro integrado e tracking de progresso.
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) [`🔗 Acessar`](https://brain-dashboard-kappa.vercel.app)
-
 ### [📰 Nexo](https://github.com/GUILHERME-LA/nexo)
 Portal editorial de inteligência política com análise de sentimento em tempo real.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) [`🔗 Acessar`](https://nexo-azure-beta.vercel.app)
