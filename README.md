@@ -35,8 +35,23 @@ const guilherme = {
 
 ## 🧬 Stack
 
+<!-- Cada ícone é uma imagem separada com "title" — passe o mouse para ver o nome. -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter,dart,nodejs,python,bun,supabase,postgres,docker,vercel,git,figma&theme=dark" />
+  <img title="TypeScript" alt="TypeScript" width="48" height="48" src="https://skillicons.dev/icons?i=ts" />
+  <img title="JavaScript" alt="JavaScript" width="48" height="48" src="https://skillicons.dev/icons?i=js" />
+  <img title="React" alt="React" width="48" height="48" src="https://skillicons.dev/icons?i=react" />
+  <img title="Next.js" alt="Next.js" width="48" height="48" src="https://skillicons.dev/icons?i=nextjs" />
+  <img title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" />
+  <img title="Flutter" alt="Flutter" width="48" height="48" src="https://skillicons.dev/icons?i=flutter" />
+  <img title="Node.js" alt="Node.js" width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" />
+  <img title="Python" alt="Python" width="48" height="48" src="https://skillicons.dev/icons?i=python" />
+  <img title="Bun" alt="Bun" width="48" height="48" src="https://skillicons.dev/icons?i=bun" />
+  <img title="Supabase" alt="Supabase" width="48" height="48" src="https://skillicons.dev/icons?i=supabase" />
+  <img title="PostgreSQL" alt="PostgreSQL" width="48" height="48" src="https://skillicons.dev/icons?i=postgres" />
+  <img title="Docker" alt="Docker" width="48" height="48" src="https://skillicons.dev/icons?i=docker" />
+  <img title="Vercel" alt="Vercel" width="48" height="48" src="https://skillicons.dev/icons?i=vercel" />
+  <img title="Git" alt="Git" width="48" height="48" src="https://skillicons.dev/icons?i=git" />
+  <img title="Figma" alt="Figma" width="48" height="48" src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
@@ -44,22 +59,18 @@ const guilherme = {
 ## 📌 Projetos em Destaque
 
 ### [💰 CashFlow](https://github.com/GUILHERME-LA/cashflow)
-
 Aplicação web para controle financeiro pessoal com dashboard interativo, gráficos e metas.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=00FF41) ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41) [`🔗 Acessar`](https://cashflow-eight-red.vercel.app)
 
 ### [📰 Nexo](https://github.com/GUILHERME-LA/nexo)
-
 Portal editorial de inteligência política com análise de sentimento em tempo real.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41) ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF41) ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41) [`🔗 Acessar`](https://nexo-azure-beta.vercel.app)
 
 ### [📊 Secretaria Monetária](https://github.com/GUILHERME-LA/secretaria-monetaria)
-
 Sistema de gestão financeira e secretaria com controle de fluxo de caixa e relatórios.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41) ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF41) [`🔗 Acessar`](https://secretaria-monetaria.vercel.app)
 
 ### [🎙️ Transcrição Áudio](https://github.com/GUILHERME-LA/transcricao-audio)
-
 Ferramenta de transcrição de áudio para texto utilizando Processamento de Linguagem Natural (NLP).
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF41) ![Whisper](https://img.shields.io/badge/-Whisper-000000?style=flat-square&logo=openai&logoColor=00FF41)
 
